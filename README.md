@@ -1,3 +1,5 @@
+# for now just 1:1 forked copy, I'll slowly work on my changes when I get parts and have it tested
+
 # Linear-Sega-Saturn-Power-Supply
 <br>
 A super clean Sega Saturn PSU for VA-SG  / VA-SD mainboards found in rev2 (white) Saturns.
