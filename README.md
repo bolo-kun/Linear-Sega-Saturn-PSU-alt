@@ -1,4 +1,5 @@
 # for now just 1:1 forked copy, I'll slowly work on my changes when I get parts and have it tested
+Since half of the parts used in the OG design are pretty much unoptanium I'll replace the components that are no longer available with some more generic, easily available parts
 
 # Linear-Sega-Saturn-Power-Supply
 <br>
