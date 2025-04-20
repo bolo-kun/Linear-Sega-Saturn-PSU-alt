@@ -1,6 +1,5 @@
 # Update
 I've tested the original design, now waiting for my revised PCB to test it out.<br>
-LM1084IT-5.0 is much easier to get, drop in replacement of the original 5V regulator though you could try any other similar IC<br>
 BL1084-33CS1 looks to be the easy to get 3.3v regulator but the pinout is slightly different so I'v added in 4th pad to accommodate both pinouts<br>
 That huge radiator is a pure waste or money, I've used what I had at hand and the temperatures did not even exceed 60C. You could looks for either large-ish TO-220 radiator or easier yet, try to fit some generic TO-247 radiator, as they are a bit more bulky.<br>
 Since pretty much every game console uses 9V, positive-center power supplies, I've replaced the diode with a bridge so that ay generic or console standard DC adapter can be used.
